@@ -1,16 +1,1 @@
-{
-  "name":"Manufacturing Flow Designer — Stage 1",
-  "short_name":"Flow Designer",
-  "description":"Offline manufacturing process map builder.",
-  "start_url":"./index.html",
-  "scope":"./",
-  "display":"standalone",
-  "orientation":"any",
-  "background_color":"#101417",
-  "theme_color":"#151a1d",
-  "icons":[
-    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},
-    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png"},
-    {"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
-  ]
-}
+{"name":"Manufacturing Flow Designer V2","short_name":"MFD V2","start_url":"./","display":"standalone","background_color":"#101417","theme_color":"#151a1d","icons":[{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png"}]}
